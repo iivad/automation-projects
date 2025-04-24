@@ -1,7 +1,4 @@
-#!/bin/bash
-# cleanup.sh - clears user cache, logs, and trash on macOS
-# Author: iivad
-# Usage: ./cleanup.sh
+
 
 # Automation Projects
 
